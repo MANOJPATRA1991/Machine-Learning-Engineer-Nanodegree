@@ -8,6 +8,8 @@ But it also comes at a price–the high complexity of controlling such an aircra
 
 The next step in this evolution is to enable quadcopters to autonomously achieve desired control behaviors such as takeoff and landing. We could design these controls with a classic approach (say, by implementing PID controllers). Or, we can use reinforcement learning to build agents that can learn these behaviors on their own. This is what we did in this project.
 
+## Instructions to run this project
+
 1. Clone the repository and navigate to the downloaded folder `P18-Teaching a Quadcopter how to fly`.
 
 2. Create and activate a new environment.
