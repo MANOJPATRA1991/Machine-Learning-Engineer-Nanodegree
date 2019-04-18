@@ -94,5 +94,5 @@ python -m ipykernel install --user --name dog-project --display-name "dog-projec
 jupyter notebook dog_app.ipynb
 ```
 
-12. (Optional) **If you are running the project on your local machine (and not using AWS)**, before running code, change the kernel to match the dog-project environment by using the drop-down menu (**Kernel > Change kernel > dog-project**). Then, follow the instructions in the notebook.
+12. (Optional) **If you are running the project on your local machine (and not using AWS)**, before running code, change the kernel to match the dog-project environment by using the drop-down menu (**Kernel > Change kernel > dog-project**).
 
