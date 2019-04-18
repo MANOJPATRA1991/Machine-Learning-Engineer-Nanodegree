@@ -71,4 +71,15 @@ In this project which takes advantage of Convolutional Neural Networks (CNN), we
 
 ![Sample Output](https://github.com/MANOJPATRA1991/Machine-Learning-Engineer-Nanodegree/blob/master/P12-Dog%20Breed%20Classifier%20(CNN%20Project)/images/sample_dog_output.png)
 
-Along with exploring state-of-the-art CNN models for classification, we will make important design decisions about the user experience for our app.  Our goal is that by completing this lab, we understand the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline.  Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer. Our imperfect solution will nonetheless create a fun user experience!
+Along with exploring state-of-the-art CNN models for classification, we will make important design decisions about the user experience for our app.  Our goal is that by completing this lab, we understand the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline.  Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer. Our imperfect solution will nonetheless create a fun user experience.
+
+### [Teaching a quadcopter how to fly](https://github.com/MANOJPATRA1991/Machine-Learning-Engineer-Nanodegree/tree/master/P18-Teaching%20a%20Quadcopter%20how%20to%20fly)
+
+The Quadcopter or Quadrotor Helicopter is becoming an increasingly popular aircraft for both personal and professional use. Its maneuverability lends itself to many applications, from last-mile delivery to cinematography, from acrobatics to search-and-rescue.
+
+Most quadcopters have 4 motors to provide thrust, although some other models with 6 or 8 motors are also sometimes referred to as quadcopters. Multiple points of thrust with the center of gravity in the middle improves stability and enables a variety of flying behaviors.
+
+But it also comes at a price–the high complexity of controlling such an aircraft makes it almost impossible to manually control each individual motor's thrust. So, most commercial quadcopters try to simplify the flying controls by accepting a single thrust magnitude and yaw/pitch/roll controls, making it much more intuitive and fun.
+
+The next step in this evolution is to enable quadcopters to autonomously achieve desired control behaviors such as takeoff and landing. We could design these controls with a classic approach (say, by implementing PID controllers). Or, we can use reinforcement learning to build agents that can learn these behaviors on their own. This is what we did in this project.
+
