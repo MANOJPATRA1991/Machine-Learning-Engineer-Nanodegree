@@ -83,3 +83,9 @@ But it also comes at a price–the high complexity of controlling such an aircra
 
 The next step in this evolution is to enable quadcopters to autonomously achieve desired control behaviors such as takeoff and landing. We could design these controls with a classic approach (say, by implementing PID controllers). Or, we can use reinforcement learning to build agents that can learn these behaviors on their own. This is what we did in this project.
 
+### [Capstone Project](https://github.com/MANOJPATRA1991/Machine-Learning-Engineer-Nanodegree/tree/master/CAPSTONE%20PROJECT)
+
+#### New York Taxi Fare Prediction
+
+The task is to predict the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and dropoff locations. While we can get a basic estimate based on just the distance between the two points, this will result in an RMSE of $5-$8, depending on the model used. The challenge is to do better than this using Machine Learning techniques.
+
