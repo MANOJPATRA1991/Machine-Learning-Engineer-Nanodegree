@@ -17,7 +17,7 @@ This program will teach you how to become a machine learning engineer, and apply
 
 In this practice project, we will create decision functions that attempt to predict survival outcomes from the 1912 Titanic disaster based on each passenger’s features, such as sex and age. We will start with a simple algorithm and increase its complexity until we are able to accurately predict the outcomes for at least 80% of the passengers in the provided data. This project will introduce us to some of the concepts of machine learning as we start the Nanodegree program.
 
-### [Predicting BostonHousing Prices](https://github.com/MANOJPATRA1991/Machine-Learning-Engineer-Nanodegree/tree/master/P2-Boston%20Housing)
+### [Predicting Boston Housing Prices](https://github.com/MANOJPATRA1991/Machine-Learning-Engineer-Nanodegree/tree/master/P2-Boston%20Housing)
 
 In this project, we will evaluate the performance and predictive power of a model that has been trained and tested on data collected from homes in suburbs of Boston, Massachusetts. A model trained on this data that is seen as a good fit could then be used to make certain predictions about a home — in particular, its monetary value. This model would prove to be invaluable for someone like a real estate agent who could make use of such information on a daily basis.
 
